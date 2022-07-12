@@ -6,8 +6,8 @@ You can use this list https://raw.githubusercontent.com/Footsiefat/Minecraft-Ser
 If you wana find some more information about possible minecraft servers use this tool - https://github.com/YxZi5/-PYTHON-/blob/main/MINECRAFT_SCAN_LAB/advanced_mc_scanner.py
 
 requirments:
-mcstatus
-sys
-socket
-argparse
-time
+mcstatus <br />
+sys <br />
+socket <br /> 
+argparse <br /> 
+time <br />
