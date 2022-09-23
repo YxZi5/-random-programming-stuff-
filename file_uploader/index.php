@@ -24,7 +24,7 @@
 			</form>			
 		</section>
 		<footer>
-			wszelkie prawa zastrzeżone - the best web programmer michalk
+			wszelkie prawa zastrzeżone - the best web programmer
 		</footer>
 	</main>
 </body>
