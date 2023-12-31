@@ -7,4 +7,5 @@ g++.exe decrypt_loader.cpp -o decrypt_loader.exe</code>
 
 Usage:
 <code>crypter.exe shellcode.bin <key_in_decimal></code>
+
 <code>decrypt_loader.exe <key_in_decimal></code>
