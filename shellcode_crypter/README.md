@@ -2,5 +2,9 @@ Shellcode crypter program to crypt shellcode, shellcode in binary format saved i
 
 compilation:
 <code>
-g++.exe shellcode_crypter -o shellcode_crypter.exe
+g++.exe crypter.cpp -o crypter.exe
 g++.exe decrypt_loader.cpp -o decrypt_loader.exe</code>
+
+Usage:
+<code>crypter.exe shellcode.bin <key_in_decimal></code>
+<code>decrypt_loader.exe <key_in_decimal></code>
