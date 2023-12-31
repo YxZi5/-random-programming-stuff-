@@ -1,4 +1,4 @@
-Shellcode crypter program to crypt shellcode, shellcode in binary format saved in file, using XOR binary operation.
+Crypter to crypt shellcode saved in binary file, using XOR binary operation.
 
 compilation:
 
