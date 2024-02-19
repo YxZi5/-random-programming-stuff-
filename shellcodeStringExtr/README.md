@@ -3,9 +3,11 @@ Tool for extracting string from decompiled shellcode to asm format (decompiler n
 32-bit example:
 
 1. Decompile compiled binary to assembly format:
+
 <code>ndisasm.exe -b 32 shellcode.bin > assembly.asm</code>
 
 2.extract strings:
+
 <code>python3 extr.py assembly.asm
 hex value: 63657878 | after conversion: xxec
 hex value: 456e6957 | after conversion: WinE
